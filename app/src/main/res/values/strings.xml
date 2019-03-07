@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyCal</string>
+    <string name="num1">Enter Number One</string>
+    <string name="num2">Enter Number Two</string>
+    <string name="Add">Add</string>
+    <string name="Sub">Sub</string>
+
+</resources>
